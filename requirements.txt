@@ -1,0 +1,12 @@
+# Core dependencies
+streamlit==1.31.0
+pandas==2.2.0
+numpy==1.26.3
+
+# Visualization
+plotly==5.18.0
+
+# Optional: For future enhancements
+# scikit-learn==1.4.0  # For ML models
+# tensorflow==2.15.0   # For deep learning models
+# requests==2.31.0     # For API calls
